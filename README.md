@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <ul>
-    <li><strong>Email:</strong> <a href="rifat15-4084@diu.edu.bd">example@gmail.com</a></li>
-    <li><strong>GitHub:</strong> <a href="https://github.com/mdrifathasan" target="_blank">https://github.com/mdrifathasan</a></li>
-    <li><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/md-rifat-hasan-391914231" target="_blank">Your LinkedIn</a></li>
+    <li><strong>Email:</strong> <a href="rifat15-4084@diu.edu.bd">rifat15-4084@diu.edu.bd</a></li>
+    <li><strong>GitHub:</strong> <a href="https://github.com/mdrifathasan" target="_blank">Github_md-rifat-hasan</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/md-rifat-hasan-391914231/" target="_blank">/md-rifat-hasan_LinkedIn</a></li>
     <li><strong>Phone Number:</strong> <a href="tel:+8801813330990">+8801813330990</a></li>
   </ul>
 </p>
